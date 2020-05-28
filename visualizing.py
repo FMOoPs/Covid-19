@@ -82,6 +82,6 @@ plt.legend()
 plt.xticks(ticks=x_indexes, labels=country)
 plt.title('Top 5 Countries in Cases')
 plt.xlabel('Country')
-plt.rcParams.update({'font.size': 4})
+
 
 plt.show()
